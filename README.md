@@ -142,19 +142,4 @@
   
   <b>✨ Muhammed Rashid N ✨</b><br/>
   <i>Full‑Stack Developer | Problem Solver | Tech Enthusiast</i>
-  <br/><br/>
-  
-  “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-  
-  <br/><br/>
-  
-  <span>🔗 <a href="https://www.linkedin.com/in/muhammed-rashid-n/">LinkedIn</a> • 
-        <a href="https://github.com/MRashidN">GitHub</a> • 
-        <a href="mailto:rmuhammedrashidn@gmail.com">Email</a></span>
-  
-  <br/><br/>
-  
-  <sub>© 2025 Muhammed Rashid N — Built with passion on GitHub</sub>
-  
-  <br/><br/>
 </div>
